@@ -1,0 +1,208 @@
+{
+ "box": [
+  "Wall Street rout - FRI - S&P -3.7% to 6,910.39",
+  "Anthropic day two - FRI - down 8.5% to $88.91",
+  "Missiles and drone down in Poland - FRI",
+  "Akvan landfall, Odisha - FRI - 372,000 evacuated",
+  "UK-EU reset deal signed - FRI",
+  "ICJ: Myanmar genocide finding - THU"
+ ],
+ "box_sub": "Held back with their real days - Friday's rout was the S&P 500's worst week since 2020",
+ "briefs": [
+  "Port-au-Prince, Haiti - Two Salvadoran soldiers die handling explosives (reports)",
+  "Strait of Hormuz - CLAIM: Iran's Guard says it downed a US MQ-9 drone (reports)",
+  "Riyadh, Saudi Arabia - Houthis warn airlines off Saudi airspace (AFP)",
+  "Yenagoa, Nigeria - Search goes on after Friday boat capsize; toll 4 (Reuters)",
+  "Johannesburg, South Africa - ANC races to build city coalitions (reports)",
+  "Warsaw, Poland - NATO chief Rutte visits, takes questions (Polish press)",
+  "Tbilisi, Georgia - Six killed, incl. a child, in gas blast (reports)",
+  "Seoul, South Korea - Ex-PM Han's 15-year sentence overturned (reports)",
+  "Copenhagen, Denmark - Russia accused of rapper murder plot (reports)",
+  "Sejong, South Korea - Freight train derails; no injuries (Yonhap)",
+  "Manila, Philippines - Four weather systems bring rains (PAGASA)",
+  "Gaza - Israeli strikes kill six, civil defence says (Al Jazeera)"
+ ],
+ "date_line": "SATURDAY 21 NOVEMBER 2026",
+ "dispatches": [
+  {
+   "art": "quake",
+   "banner": "PERU: QUAKE 6.7",
+   "fact": "108 km deep · no casualties",
+   "headline": "Quake M6.7 shakes Andes",
+   "lat": -10.85,
+   "lon": -75.98,
+   "num": 4,
+   "place": "JUNÍN, PERU",
+   "source": "REUTERS · AFP"
+  },
+  {
+   "art": "cricket",
+   "banner": "CRICKET: DAY THREE",
+   "fact": "Lead of 118 · Gill out for 98",
+   "headline": "Rahul 136, India 486-4",
+   "lat": -41.29,
+   "lon": 174.78,
+   "num": 5,
+   "place": "WELLINGTON, NEW ZEALAND",
+   "source": "IANS · CRICKETWORLD"
+  },
+  {
+   "art": "plane",
+   "banner": "DAVAO: JET LANDS SAFE",
+   "fact": "All 146 aboard unhurt",
+   "headline": "Jet lands safe in Davao",
+   "lat": 7.13,
+   "lon": 125.61,
+   "num": 6,
+   "place": "DAVAO, PHILIPPINES",
+   "source": "AP · CAAP"
+  },
+  {
+   "art": "bitcoin",
+   "banner": "BITCOIN: SATURDAY LOW",
+   "fact": "Lowest since Sep 2024",
+   "headline": "Bitcoin low: $55,130",
+   "lat": null,
+   "lon": null,
+   "num": 7,
+   "place": "GLOBAL · 24-HOUR MARKETS",
+   "source": "MARKET DATA"
+  },
+  {
+   "art": "fire",
+   "banner": "PALISADES: GUILTY",
+   "fact": "2025 fire killed 12",
+   "headline": "Palisades fire: guilty",
+   "lat": 34.05,
+   "lon": -118.24,
+   "num": 8,
+   "place": "LOS ANGELES, UNITED STATES",
+   "source": "REUTERS"
+  },
+  {
+   "art": "f1",
+   "banner": "F1: QUALIFYING",
+   "fact": "1:33.893 · penalty: starts 6th",
+   "headline": "Antonelli fastest",
+   "lat": 36.11,
+   "lon": -115.17,
+   "num": 9,
+   "place": "LAS VEGAS, UNITED STATES",
+   "source": "FORMULA1.COM"
+  },
+  {
+   "art": "space",
+   "banner": "SPACE: MERCURY",
+   "fact": "Insertion burns run Saturday",
+   "headline": "BepiColombo at Mercury",
+   "lat": 49.87,
+   "lon": 8.65,
+   "num": 10,
+   "place": "DARMSTADT, GERMANY",
+   "source": "ESA · JAXA"
+  },
+  {
+   "art": "servers",
+   "banner": "TRUMP: DATA CENTRES",
+   "fact": "'Tremendous tax' threatened",
+   "headline": "Data-centre tax vow",
+   "lat": 38.9,
+   "lon": -77.04,
+   "num": 11,
+   "place": "WASHINGTON, UNITED STATES",
+   "source": "REUTERS"
+  },
+  {
+   "art": "jail",
+   "banner": "NEW YORK: RIKERS",
+   "fact": "Jail population 6,600 to 4,100",
+   "headline": "Rikers to close by 2032",
+   "lat": 40.71,
+   "lon": -74.01,
+   "num": 12,
+   "place": "NEW YORK, UNITED STATES",
+   "source": "REUTERS"
+  },
+  {
+   "art": "court",
+   "banner": "NEW YORK: SENTENCE",
+   "fact": "Murder-for-hire · pleaded guilty",
+   "headline": "235 months: kill plot",
+   "lat": null,
+   "lon": null,
+   "num": 13,
+   "place": "NEW YORK, UNITED STATES",
+   "source": "REUTERS · US DOJ"
+  }
+ ],
+ "footer": "One Day on Earth · every story above happened or was first reported on Saturday 21 November 2026 in some time zone · earlier days sit in DATE CHECK, named with their real day · sources named on each item",
+ "kicker_left": "ONE DAY ON EARTH",
+ "kicker_right": "25 STORIES · 8 REGIONS · 13 PICTURED",
+ "leads": [
+  {
+   "art": "summit",
+   "banner": "COP31: OVERTIME",
+   "fact": "Third draft awaited · Panama may block",
+   "headline": "Climate talks into day 13, still no deal",
+   "lat": 36.9,
+   "lon": 30.7,
+   "num": 1,
+   "place": "ANTALYA, TÜRKIYE",
+   "source": "AP · THE GUARDIAN",
+   "summary": "Plenary suspended; third draft promised."
+  },
+  {
+   "art": "missiles",
+   "banner": "SAUDI: MISSILES DOWNED",
+   "fact": "5 intercepted in all: 3 Riyadh, 2 Jizan",
+   "headline": "Three Houthi missiles downed over Riyadh",
+   "lat": 24.7,
+   "lon": 46.7,
+   "num": 2,
+   "place": "RIYADH, SAUDI ARABIA",
+   "source": "REUTERS · AFP",
+   "summary": "Second attack in days; PIF tower hit Thursday."
+  },
+  {
+   "art": "strike",
+   "banner": "UKRAINE: TOLL REVISED",
+   "fact": "Saturday Vilkul update · injured up to 58",
+   "headline": "Kryvyi Rih toll: two dead, 58 injured",
+   "lat": 47.9,
+   "lon": 33.4,
+   "num": 3,
+   "place": "KRYVYI RIH, UKRAINE",
+   "source": "VILKUL · SUSPILNE",
+   "summary": "Friday strike hit a hospital and 23 blocks."
+  }
+ ],
+ "notyet": "NOT YET PLAYED, SO NOT SHOWN: the Las Vegas Grand Prix (Saturday night local), England-New Zealand and Ireland-South Africa rugby, and the Turin semi-finals - all Saturday evening or later.",
+ "regions": "EUROPE 6 · MIDDLE EAST 4 · ASIA 4 · NORTH AMERICA 6 · SOUTH AMERICA 1 · AFRICA 2 · OCEANIA 1 · GLOBAL 1",
+ "stats": [
+  {
+   "label": "COP31 in overtime",
+   "value": "DAY 13"
+  },
+  {
+   "label": "missiles intercepted",
+   "value": "5"
+  },
+  {
+   "label": "Peru quake, Junín",
+   "value": "M6.7"
+  },
+  {
+   "label": "safe in Davao landing",
+   "value": "146"
+  },
+  {
+   "label": "bitcoin Saturday low",
+   "value": "$55,130"
+  },
+  {
+   "label": "India at Wellington",
+   "value": "486-4"
+  }
+ ],
+ "strap": "Climate talks run past their deadline · missiles fall on Riyadh · a quake shakes Peru · bitcoin plunges"
+}
